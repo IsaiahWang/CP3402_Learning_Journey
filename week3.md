@@ -1,4 +1,4 @@
-# Week 1 Learning Journal
+# Week 3 Learning Journal
 ## Learning Activities & Resources
 This week's focus was on creating a simple WordPress site for my startup, a transition from last week's Joomla task. The process involved setting up a WordPress environment, either locally or hosted online. I leveraged the content and design from my Joomla site, focusing more on mastering WordPress as a CMS (Content Management System). Additionally, I participated in a unique group formation task, which resembled a "job interview style" exercise. This involved interacting with my peers, conducting one-minute interviews, and noting attributes that could contribute to a successful group project. 
 ## Estimated Hours

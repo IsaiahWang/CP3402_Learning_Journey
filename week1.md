@@ -1,4 +1,4 @@
-# Week 3 Learning Journal
+# Week 1 Learning Journal
 ## Learning Activities & Resources
 This week I created a platform webiste for my startup business using a downloaded template that employs HTML, CSS and the Bootstrap framework. Meanwhile, I customized the template extensively to suit the business objectives. My platform mainly assits students who are struggling in their assignments and courseworks by providing help from their peers. Besides the programming part, I identified specific features and funtionalities to be included in my plarform to make the website actually functional. And I analyzed a few competitors in the market to identify strengths and weaknesses.
 ## Estimated Hours
