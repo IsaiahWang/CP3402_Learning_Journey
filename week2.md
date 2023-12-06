@@ -1,4 +1,4 @@
-# Week 1 Learning Journal
+# Week 2 Learning Journal
 ## Learning Activities & Resources
 This week, I spent many hours learning about Joomla CMS framework. My learning journey with Joomla CMS framework has been both challenging and rewarding. I spent several hours installing Joomla and exploring its interface, which provided me with a hands-on experience of working with a new technology. Despite facing difficulties with the administration panel, I persisted and sought out online resources and videos to troubleshoot the issue. 
 
