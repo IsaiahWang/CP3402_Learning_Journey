@@ -1,8 +1,11 @@
 # Week 4 Learning Journal
 ## Learning Activities & Resources
-This week's objective was to demonstrate a dynamic website with a database, either through a CMS or directly using code and a database, running on my localhost. However, since my WordPress site is hosted on AWS Lightsail, I decided to take a slightly different approach. I created a database in Lightsail, following the instructions from Amazon Lightsail's documentation on creating a database. This task involved setting up the database, configuring it to work with WordPress, and ensuring secure and efficient data handling. Alongside this, I brushed up on my SQL skills to manage and query the database effectively.
-https://lightsail.aws.amazon.com/ls/docs/en_us/articles/amazon-lightsail-creating-a-database
-https://www.youtube.com/watch?v=pqoIvj5PAc0
+This week's objective was to demonstrate a dynamic website with a database, either through a CMS or directly using code and a database, running on my localhost. However, since my WordPress site is hosted on AWS Lightsail, I decided to take a slightly different approach. I created a database in Lightsail, following the instructions from Amazon Lightsail's documentation on creating a database. This task involved setting up the database, configuring it to work with WordPress, and ensuring secure and efficient data handling. Alongside this, I brushed up on my SQL skills to manage and query the database effectively.  
+
+https://lightsail.aws.amazon.com/ls/docs/en_us/articles/amazon-lightsail-creating-a-database  
+
+https://www.youtube.com/watch?v=pqoIvj5PAc0  
+
 https://www.w3schools.com/MySQL/default.asp
 ## Estimated Hours
 The entire process, including setting up the database in Lightsail, integrating it with my WordPress site, and testing the functionality, took around 10 hours. Additional time was spent on learning and revising SQL concepts, which accounted for approximately 2 hours.
