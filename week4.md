@@ -6,7 +6,9 @@ Configuring WordPress on NAMP: I installed WordPress, ensuring it was configured
 Transplant the Site: Utilizing my skills from previous weeks, I created a dynamic WordPress site. This included customizing themes, adding content, and ensuring the site was interactive and user-friendly.
 
 https://kinsta.com/blog/install-wordpress-locally/#how-to-install-wordpress-locally-on-mac-using-mamp
+
 https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP
+
 https://skillcrush.com/blog/install-wordpress-mac/
 ## Estimated Hours
 The entire process, including setting up the database in MAMP, integrating it with my WordPress site, and testing the functionality, took around 5 hours. Additional time was spent on learning and revising SQL concepts, which accounted for approximately 2 hours.

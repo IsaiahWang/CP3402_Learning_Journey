@@ -7,9 +7,13 @@ This week I learned how to create and customize a WordPress child theme. The key
 - Adding the theme header details and linking the parent theme
 - Customizing styles, adding functionality via functions.php
 - Troubleshooting issues with child theme implementation
+
 https://www.youtube.com/watch?v=OTpwp_BIXMg
+
 https://developer.wordpress.org/themes/advanced-topics/child-themes/
+
 https://www.hostinger.com/tutorials/how-to-create-wordpress-child-theme?ppc_campaign=google_search_generic_hosting_all&bidkw=defaultkeyword&lo=9062526&gad_source=1&gclid=CjwKCAiAvoqsBhB9EiwA9XTWGfrxuQhjErH2Nbo579iOqb3Tc08haQvbHAqPpL0yq37GQMv9Rnv1iRoC-rMQAvD_BwE
+
 https://www.wpbeginner.com/wp-themes/how-to-create-a-wordpress-child-theme-video/
 
 ## Estimated Hours
